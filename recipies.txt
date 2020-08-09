@@ -12,4 +12,7 @@ dhosa
 vada
 paeer tikka
 
+beans 
+pizza
+
 Thank you. 
